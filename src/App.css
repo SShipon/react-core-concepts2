@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.shipon{
+  background-color: rgb(8, 27, 61);
+  color: #ffff;
+  border: 10px solid gold;
+  margin: 20px;
+  border-radius: 10px;
+}
+.hello{
+ color:#fff;
+ padding: 10px 20px;
+ margin: 5px 10px;
+ background-color: hsl(265, 84%, 59%);
+ border-radius: 10px;
+}
+.hey{
+  color: #ffff;
+  padding: 10px 20px;
+  margin: 5px 10px;
+  background-color: blueviolet;
+  border-radius: 10px;
+}
